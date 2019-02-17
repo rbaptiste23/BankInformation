@@ -19,6 +19,7 @@ public class App {
 		System.out.println(bank.toString());
 
 		System.out.println(bank.toString());
+		System.out.println(bank.toString());
 
 	}
 

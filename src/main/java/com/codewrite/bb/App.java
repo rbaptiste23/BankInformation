@@ -16,6 +16,11 @@ public class App {
 		
 		System.out.println(bank.toString());
 		System.out.println(bank.toString());
+<<<<<<< HEAD
+=======
+		System.out.println(bank.toString());
+		System.out.println(bank.toString());
+>>>>>>> refs/remotes/origin/master
 
 	}
 
